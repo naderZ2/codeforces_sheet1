@@ -1,0 +1,5 @@
+﻿  H. Two numbers.cpp
+C:\Users\HP\OneDrive\Desktop\ \codeing\c++\trn\H. Two numbers\H. Two numbers\H. Two numbers.cpp(14,19): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\HP\OneDrive\Desktop\ \codeing\c++\trn\H. Two numbers\H. Two numbers\H. Two numbers.cpp(15,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\HP\OneDrive\Desktop\ \codeing\c++\trn\H. Two numbers\H. Two numbers\H. Two numbers.cpp(16,19): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  H. Two numbers.vcxproj -> C:\Users\HP\OneDrive\Desktop\ \codeing\c++\trn\H. Two numbers\x64\Debug\H. Two numbers.exe
